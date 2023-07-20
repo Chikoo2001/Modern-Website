@@ -141,6 +141,10 @@
         width: 100%;
     }
 
+    .sub-footer .links{
+        flex-direction: column;
+    }
+
     .cta-section {
         gap: 25px;
     }
